@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://github.com/">
         <kbd>
-            <img width="450" src="https://telegra.ph/file/a73a7d59d4a139df59c16.jpg" alt="LOLBOT">
+            <img width="450" src="https://graph.org/file/f280a3a5061d744cb57df.jpg" alt="LOLBOT">
         </kbd>
     </a>
 
